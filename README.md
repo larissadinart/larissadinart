@@ -1,6 +1,7 @@
-##  Olá, seja bem vindo!👋*
+##  Olá, seja bem vindo ao meu perfil do github!👋
 
  ✨ Sou a Lari, tenho 31 anos e estou cursando ADS.
+ 
  Atualmente sou estagiária da empresa 5by5 Soluções em Sistemas!✨
  
  📫lari_dinart@hotmail.com
