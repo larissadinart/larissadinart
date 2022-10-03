@@ -1,4 +1,4 @@
-##  Olá, seja bem vindo ao meu perfil do github!👋
+##  Hello World! Seja bem vindo ao meu perfil !👋
 
  ✨ Sou a Lari, tenho 31 anos e estou cursando ADS.
  
