@@ -25,10 +25,11 @@
 
   
  ### Visitor count:
-![Visitor Count](https://profile-counter.glitch.me/LarissaDinart/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/Larissadinart/count.svg) 
 </div>
 </details>
 </div>
+ 
  
 </div>
 
